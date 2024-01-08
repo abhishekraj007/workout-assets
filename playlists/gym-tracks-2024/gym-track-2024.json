@@ -1,10 +1,7 @@
 {
-    "name": "Gym tracks 2024 Part 1",
-    "description": "Gym Tracks 2023 \u26a1 Gym Beats \u26a1 Hot Music for Training \u26a1 Music for Workout \u26a1 Workout Hits",
-    "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/thumbnail.jpg",
     "tracks": [
         {
-            "id": "b311496b-06ad-43d2-8dba-ca18db841cb6",
+            "id": "4f7954eb-4a19-4586-9ea6-092e257cd93f",
             "name": "Get Dark",
             "artist": "Spencer Arnold",
             "album": "Get Dark",
@@ -12,7 +9,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Spencer-Arnold-Get-Dark.jpg"
         },
         {
-            "id": "46b5a402-3bff-4ab6-ade9-c65203de632b",
+            "id": "da701b81-d2b5-4976-833a-029e1048f268",
             "name": "I Don\u00b4t Need You - Radio Version",
             "artist": "Dan Kers/INCARMA",
             "album": "I Don\u00b4t Need You",
@@ -20,7 +17,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Dan-Kers-INCARMA-I-Dont-Need-You-Radio-Version.jpg"
         },
         {
-            "id": "b0ee4067-753c-4b9c-b105-28e75dfd2a20",
+            "id": "c0177be5-12e6-4420-957d-e131c57e0b6f",
             "name": "Paper-Wrapped Scissors",
             "artist": "Marvis",
             "album": "Paper-Wrapped Scissors",
@@ -28,7 +25,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Marvis-Paper-Wrapped-Scissors.jpg"
         },
         {
-            "id": "c476e9dc-4da3-4972-8817-4cfc57f35ed2",
+            "id": "9cb32e74-7bf7-4646-a12c-db05cd0ca587",
             "name": "Dust",
             "artist": "Forru",
             "album": "Dust",
@@ -36,7 +33,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Forru-Dust.jpg"
         },
         {
-            "id": "59d23580-0e00-4989-99d5-acd10d01f9f4",
+            "id": "d99b5520-5373-4fe8-8a60-358a0bc4fb07",
             "name": "We Found Love",
             "artist": "XTEQUILAX",
             "album": "We Found Love",
@@ -44,7 +41,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/XTEQUILAX-We-Found-Love.jpg"
         },
         {
-            "id": "3311f4c1-0dbe-48db-a15e-98ca4e947e47",
+            "id": "e8ad532a-0d5b-4fe2-a240-b21aa2c808ae",
             "name": "Reason",
             "artist": "Timotzi",
             "album": "Reason",
@@ -52,7 +49,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Timotzi-Reason.jpg"
         },
         {
-            "id": "e63c77c9-2eb0-4145-b206-6ac6941aacae",
+            "id": "2763d8c0-29d6-4ed2-b6a0-00f40703d60c",
             "name": "We Can Go",
             "artist": "Kevin Havis",
             "album": "We Can Go",
@@ -60,7 +57,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Kevin-Havis-We-Can-Go.jpg"
         },
         {
-            "id": "57bae140-9b32-47bb-b87d-e622f82cfbe5",
+            "id": "16611734-6940-4af9-8fcf-41f1b79cacbd",
             "name": "Business",
             "artist": "D3LT4",
             "album": "Business",
@@ -68,7 +65,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/D3LT4-Business.jpg"
         },
         {
-            "id": "af364546-6bce-4b25-bdad-df72c16f43aa",
+            "id": "298a6b6c-6aa0-4e8a-9959-7fc5fd7c119b",
             "name": "Obscurity",
             "artist": "Aether/Rosa Rigid",
             "album": "Obscurity",
@@ -76,7 +73,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Aether-Rosa-Rigid-Obscurity.jpg"
         },
         {
-            "id": "574fbba8-1a4a-43b5-9b48-8e753ab4a63a",
+            "id": "fc3069a4-7da3-4510-8de3-85ec8d30dc70",
             "name": "Papi (Bhabi)",
             "artist": "Eden Shalev",
             "album": "Papi (Bhabi)",
@@ -84,7 +81,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Eden-Shalev-Papi-Bhabi.jpg"
         },
         {
-            "id": "a961c32e-eb9e-4045-a250-99a064aa5bc3",
+            "id": "4d1d7e5a-c8ab-4301-b011-9491459781a7",
             "name": "",
             "artist": "",
             "album": "",
@@ -92,7 +89,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Rialians-on-Earth-Cafe-De-Anatolia-Balkan.jpg"
         },
         {
-            "id": "59325f22-5c3e-4797-81b7-3b998055df94",
+            "id": "4bb0b317-bd19-425d-b548-71a9105ef284",
             "name": "Lights",
             "artist": "spiegle",
             "album": "Lights",
@@ -100,7 +97,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/spiegle-Lights.jpg"
         },
         {
-            "id": "bdcb0e26-13db-4ecc-b689-d62247635cc0",
+            "id": "2a3e39c1-048c-4659-8330-fbbf484c48a5",
             "name": "Escape",
             "artist": "Twilight Music Sculpture",
             "album": "Escape",
@@ -108,7 +105,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Twilight-Music-Sculpture-Escape.jpg"
         },
         {
-            "id": "4b40f47d-87d7-45fb-9caa-738161bb4767",
+            "id": "3fced617-e955-4cf9-b946-e1c3fea729b8",
             "name": "Rakata",
             "artist": "Kayote/Sacha Harland/The Galaxy",
             "album": "Rakata",
@@ -116,7 +113,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Kayote-Sacha-Harland-The-Galaxy-Rakata.jpg"
         },
         {
-            "id": "23acd613-462f-4c17-b46c-6256769b4a2d",
+            "id": "bf1b6a48-d22c-4a20-ad5a-a26f55dfbf69",
             "name": "Work It - Radio Edit",
             "artist": "ATX/Gimmy Weaver",
             "album": "Work It",
@@ -124,7 +121,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/ATX-Gimmy-Weaver-Work-It-Radio-Edit.jpg"
         },
         {
-            "id": "a9ec0806-96e0-4abf-a29a-4bab1101866f",
+            "id": "571f820e-f62f-4d47-b5c4-21b6c2cbefbc",
             "name": "Hazy",
             "artist": "Daniel Slam",
             "album": "Hazy",
@@ -132,7 +129,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Daniel-Slam-Hazy.jpg"
         },
         {
-            "id": "04282bcd-d8e5-4f10-bfcc-46b756d7c183",
+            "id": "bec840fa-91c4-40f7-a015-b4fe22dd2cd0",
             "name": "Playing Games",
             "artist": "FR3SH TrX",
             "album": "Playing Games",
@@ -140,7 +137,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/FR3SH-TrX-Playing-Games.jpg"
         },
         {
-            "id": "689c4e83-b4b5-44c5-a2d0-8f74f9ebcd03",
+            "id": "08f0dc23-af6c-4677-ad0d-f0ae0a234ab0",
             "name": "Dynamite",
             "artist": "Glasi/Scarlett",
             "album": "Dynamite",
@@ -148,7 +145,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Glasi-Scarlett-Dynamite.jpg"
         },
         {
-            "id": "fddcd475-6a35-4be0-80e2-dfa6dc826f65",
+            "id": "6deec2f9-91d5-4f20-ad51-7c5e598abfb5",
             "name": "BIG BLUE DAY - Grant Leslie Remix Radio Edit",
             "artist": "Antony Wilson/Caroline Peirson/Audra Nishita/Josh HIll/Hitinui Katani/Lorna TInskey-Kocins/Grant Leslie",
             "album": "BIG BLUE DAY (Grant Leslie Remix Radio Edit)",
@@ -156,7 +153,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Antony-Wilson-Caroline-Peirson-Audra-Nishita-Josh-HIll-Hitinui-Katani-Lorna-TInskey-Kocins-BIG-BLUE-DAY-Grant-Leslie-Remix-Radio-Edit.jpg"
         },
         {
-            "id": "c9bb727e-912f-430c-8d8a-520b8c42e067",
+            "id": "f295ed98-67fe-42a2-a2ef-791abd865cd6",
             "name": "High As F*ck",
             "artist": "Cody Chase",
             "album": "High As F*ck",
@@ -164,7 +161,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Cody-Chase-High-As-Fck.jpg"
         },
         {
-            "id": "f11e65ff-c8dd-410b-ae80-0de4994501da",
+            "id": "1924ef47-7a7d-4bbf-b068-912756156e47",
             "name": "Elahi - Socko Remix",
             "artist": "Nasiri/DARNO/Sham.m.an/Cafe De Anatolia/Socko",
             "album": "Elahi (Socko Remix)",
@@ -172,7 +169,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Nasiri-DARNO-Sham.m.an-Cafe-De-Anatolia-Elahi-Socko-Remix.jpg"
         },
         {
-            "id": "419fddbd-7e78-4683-9c83-2b87e906090e",
+            "id": "547a5a96-ac0b-4d19-a77e-24e68919d4e2",
             "name": "Scary Lullabies",
             "artist": "Mike Candys",
             "album": "Scary Lullabies",
@@ -180,7 +177,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Mike-Candys-Scary-Lullabies.jpg"
         },
         {
-            "id": "359d90de-d51d-4c1d-8250-36bcdde84c4b",
+            "id": "5bdedf8c-5fb7-4fd8-ad41-822bc58e7f9e",
             "name": "",
             "artist": "",
             "album": "",
@@ -188,7 +185,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Billy-Esteban-Rialians-on-Earth-Cafe-De-Anatolia-Turkish-Coffee-Mercan-Dede-Remix.jpg"
         },
         {
-            "id": "4df1a0e1-6c76-4fb0-ac74-6cd97bdade70",
+            "id": "d73ed9ba-333d-4285-ac0f-b507ccf89a24",
             "name": "The Tears We Cry - Radio Version",
             "artist": "Ravest Hard/Ian Source",
             "album": "The Tears We Cry",
@@ -196,7 +193,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Ravest-Hard-Ian-Source-The-Tears-We-Cry-Radio-Version.jpg"
         },
         {
-            "id": "03823fd2-d547-4e09-ad54-2fc8a7bd51ff",
+            "id": "410acc76-4f25-40a5-8fbb-702c670e02fa",
             "name": "So Good",
             "artist": "Jimmy de la Mar",
             "album": "So Good",
@@ -204,7 +201,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Jimmy-de-la-Mar-So-Good.jpg"
         },
         {
-            "id": "2355520f-e5d0-4ed4-bf94-fed68c1d8a95",
+            "id": "a5af3e19-e7aa-429f-be51-fca85574ad9b",
             "name": "Meow",
             "artist": "Nichenka Zoryana",
             "album": "Meow",
@@ -212,7 +209,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Nichenka-Zoryana-Meow.jpg"
         },
         {
-            "id": "a261b153-0d73-49c1-9a3b-ad3a2b15ca1b",
+            "id": "3372049c-5343-4404-b029-b65db4d3c63e",
             "name": "Blonde Girl",
             "artist": "Catalyst",
             "album": "Blonde Girl",
@@ -220,7 +217,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Catalyst-Blonde-Girl.jpg"
         },
         {
-            "id": "2eaf852b-e5df-41f3-8656-6d0b38532540",
+            "id": "afb2c93f-3cf0-4b2c-9cf3-f470f0cb1f0b",
             "name": "Summer Jam",
             "artist": "PAUL PARKER",
             "album": "Summer Jam",
@@ -228,7 +225,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/PAUL-PARKER-Summer-Jam.jpg"
         },
         {
-            "id": "6b774df1-1751-4b5c-9439-b04cfaa683c9",
+            "id": "08775b09-4d7e-463c-8a58-0c46fdb620ad",
             "name": "Tom's Diner",
             "artist": "Zonus",
             "album": "Tom's Diner",
@@ -236,7 +233,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Zonus-Toms-Diner.jpg"
         },
         {
-            "id": "1034b3ad-77e1-4e38-b43d-812939437049",
+            "id": "62667ebd-6e97-4b3d-b536-c12ecaefe446",
             "name": "Chcl\u2083",
             "artist": "Neodym",
             "album": "Chcl\u2083",
@@ -244,7 +241,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Neodym-Chcl\u2083.jpg"
         },
         {
-            "id": "f0b26f9f-5c4f-40c3-acdc-c6e0f709787a",
+            "id": "7c1bbc36-f946-410d-acea-016075b3c1be",
             "name": "I'm Rushin' (reloaded)",
             "artist": "Talla 2XLC/Doug Laurent",
             "album": "I'm Rushin' (Reloaded)",
@@ -252,7 +249,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Talla-2XLC-Doug-Laurent-Im-Rushin-reloaded.jpg"
         },
         {
-            "id": "9993617c-1472-4e02-9b5e-531c9d87211e",
+            "id": "5bce6749-69c7-414d-ba4e-2e63a94d6dac",
             "name": "Do My Thing",
             "artist": "Sabotage",
             "album": "Do My Thing",
@@ -260,7 +257,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Sabotage-Do-My-Thing.jpg"
         },
         {
-            "id": "e0b92c97-5b4d-4b01-9e83-861872f4c5a5",
+            "id": "2021898e-dc9b-43b7-8ccc-3899d30036f6",
             "name": "Winter Dreams",
             "artist": "Chris Decay/Nighth4wk",
             "album": "Winter Dreams",
@@ -268,7 +265,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Chris-Decay-Nighth4wk-Winter-Dreams.jpg"
         },
         {
-            "id": "d7979fe0-39b2-4614-abc0-055e390b0e0f",
+            "id": "afac3225-12c8-4138-8448-2014a4dc3cf4",
             "name": "Lights in the Sky",
             "artist": "THIAS",
             "album": "Lights in the Sky",
@@ -276,7 +273,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/THIAS-Lights-in-the-Sky.jpg"
         },
         {
-            "id": "dff5be8f-7caf-49e4-8d1f-71cb05bf8dde",
+            "id": "a1819c0b-0280-4bed-be30-4d06cddf3db2",
             "name": "Time",
             "artist": "BLUE MAY ROSE",
             "album": "Time",
@@ -284,7 +281,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/BLUE-MAY-ROSE-Time.jpg"
         },
         {
-            "id": "115cbae8-cb47-46eb-babb-831f7283b891",
+            "id": "d2040bea-9347-4f73-8e01-d79f6d71ef96",
             "name": "Break Away",
             "artist": "Pixelanddigital",
             "album": "Neural Nexus",
@@ -292,7 +289,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Pixelanddigital-Break-Away.jpg"
         },
         {
-            "id": "6e90453f-9650-40bc-bcee-4e4438c7d506",
+            "id": "7784461c-3354-49fd-9c66-35e74cf9347f",
             "name": "Senses High - La Mverte Dubious Remix",
             "artist": "Pyrame/La Mverte",
             "album": "Senses High",
@@ -300,7 +297,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Pyrame-Senses-High-La-Mverte-Dubious-Remix.jpg"
         },
         {
-            "id": "d859f5e5-abb8-4603-b030-cdac319014a2",
+            "id": "5b0b1d66-5483-4215-ada6-1202783af0d1",
             "name": "Take Me Back",
             "artist": "Just Kama/BadTune",
             "album": "Take Me Back",
@@ -308,7 +305,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Just-Kama-BadTune-Take-Me-Back.jpg"
         },
         {
-            "id": "b8551e5a-ff71-4fd6-a5d2-95f0e58151ed",
+            "id": "acfc5f6e-5631-4308-8ef0-127f78ef9b00",
             "name": "Liar",
             "artist": "Charles & Carmichael",
             "album": "Liar",
@@ -316,7 +313,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Charles-Carmichael-Liar.jpg"
         },
         {
-            "id": "2cda4e9e-4b9a-4b12-81fb-defc23fa4c73",
+            "id": "39a35714-7f43-4517-84c9-c72bec53ea82",
             "name": "Fireflies",
             "artist": "LUM!X/Jordan Rys",
             "album": "Fireflies",
@@ -324,7 +321,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/LUMX-Jordan-Rys-Fireflies.jpg"
         },
         {
-            "id": "1cfb693e-4889-4f36-b340-949c2dd06f84",
+            "id": "a7515d1b-7963-438e-aa8c-8104ab373dcc",
             "name": "Dreamcatcher - Short Mix",
             "artist": "XEDM/FR3SH TrX",
             "album": "Dreamcatcher",
@@ -332,7 +329,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/XEDM-FR3SH-TrX-Dreamcatcher-Short-Mix.jpg"
         },
         {
-            "id": "7096726a-64fd-47b0-a9bd-54438aa21795",
+            "id": "7c29dfda-762c-48c6-b03f-632633cbd5f0",
             "name": "We Are The First",
             "artist": "ATX/Gimmy Weaver",
             "album": "We Are The First",
@@ -340,7 +337,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/ATX-Gimmy-Weaver-We-Are-The-First.jpg"
         },
         {
-            "id": "f08f695d-999b-4ac1-a445-995b6d52e8ad",
+            "id": "81995610-6258-4650-b1ee-67ab5457fd6b",
             "name": "Stop Me Now",
             "artist": "Saamanjis",
             "album": "Stop Me Now",
@@ -348,7 +345,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Saamanjis-Stop-Me-Now.jpg"
         },
         {
-            "id": "14315a86-35d1-4b50-9bc1-75e2b587bd82",
+            "id": "9e709a78-dfb9-4b3f-bdae-eb47b72d63e5",
             "name": "Don't Gotta Go",
             "artist": "MAKIR",
             "album": "Don't Gotta Go",
@@ -356,7 +353,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/MAKIR-Dont-Gotta-Go.jpg"
         },
         {
-            "id": "e6bd053f-c5c5-4ac5-8fe3-aaca39790b88",
+            "id": "94196a15-f8e0-443b-b97f-dae9f335ce4d",
             "name": "Flaunting - Radio Mix",
             "artist": "DJ Combo/Sander-7",
             "album": "Flaunting",
@@ -364,7 +361,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/DJ-Combo-Sander-7-Flaunting-Radio-Mix.jpg"
         },
         {
-            "id": "86c36a78-b8f1-4504-8170-d42162481f1f",
+            "id": "2fdca9af-662b-4770-8f59-2ede7b13b03a",
             "name": "I Don't Care",
             "artist": "HTK",
             "album": "I Don't Care",
@@ -372,7 +369,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/HTK-I-Dont-Care.jpg"
         },
         {
-            "id": "9df6af37-87ba-485b-a941-135d1e024a9c",
+            "id": "62fe5ee0-259b-43ec-ab13-68feffa6b42c",
             "name": "Easy",
             "artist": "\u0130skorbeatz",
             "album": "Easy",
@@ -380,7 +377,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/\u0130skorbeatz-Easy.jpg"
         },
         {
-            "id": "e15526fe-b8d9-4ea6-8d13-dde6b5b6a180",
+            "id": "cedb9cca-f8de-404f-91f9-114f04cd1e33",
             "name": "Latin Anthem",
             "artist": "Zayx/JM GOLDEN/Cleio Records",
             "album": "Latin Anthem",
@@ -388,7 +385,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Zayx-JM-GOLDEN-Cleio-Records-Latin-Anthem.jpg"
         },
         {
-            "id": "545a0603-5351-4bdb-a481-e2bb6dd61bda",
+            "id": "953f6fc3-92e0-4ea5-995f-a6482ed05060",
             "name": "Acid Concentrate",
             "artist": "AX-CELL",
             "album": "Acid Concentrate",
@@ -396,7 +393,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/AX-CELL-Acid-Concentrate.jpg"
         },
         {
-            "id": "2fc2d2f4-0c07-4da3-b064-fcfbd639c997",
+            "id": "fd70918e-77f5-40c3-b060-b805c356d16f",
             "name": "Open Road",
             "artist": "Gobi Desert Collective/Ampermut/Cafe De Anatolia",
             "album": "Open Road",
@@ -404,7 +401,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Gobi-Desert-Collective-Ampermut-Cafe-De-Anatolia-Open-Road.jpg"
         },
         {
-            "id": "18e951bf-7ce8-4295-a24d-8dc433659c2c",
+            "id": "ccc3c387-d618-4a52-807c-fc961794bdf7",
             "name": "Green",
             "artist": "Waxcat",
             "album": "Green",
@@ -412,7 +409,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Waxcat-Green.jpg"
         },
         {
-            "id": "826929dc-c2bc-480f-a48a-0d61ba3ff828",
+            "id": "a652e01e-32f6-4155-b15a-bcc18093c927",
             "name": "Burn - Avygo Remix",
             "artist": "Matt Fortress/Jetason/Poleis Records/Avygo",
             "album": "Burn (Avygo Remix)",
@@ -420,7 +417,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Matt-Fortress-Jetason-Poleis-Records-Burn-Avygo-Remix.jpg"
         },
         {
-            "id": "d7840ffe-1b49-481a-9358-e3b9226641f9",
+            "id": "2d1ae75e-97bd-4166-b2fa-f5fdd6976c21",
             "name": "I'm Not Dead Yet",
             "artist": "Westerlund/Michael Hausted/Kayote",
             "album": "I'm Not Dead Yet",
@@ -428,7 +425,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Westerlund-Michael-Hausted-Kayote-Im-Not-Dead-Yet.jpg"
         },
         {
-            "id": "3e8610ef-3b1b-40a0-86f2-e66b5776300f",
+            "id": "e3b23407-3eb9-4c23-9e7c-8149fe620561",
             "name": "Push The Button",
             "artist": "Fernando Acero/Viddsan",
             "album": "Push The Button",
@@ -436,7 +433,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Fernando-Acero-Viddsan-Push-The-Button.jpg"
         },
         {
-            "id": "e5f0bc35-cf7c-41c3-8f54-495d3e75c042",
+            "id": "172e6ccc-b688-43b1-803c-6c0e1645cbd3",
             "name": "Esta Loca",
             "artist": "Karl8 & Andrea Monta",
             "album": "Esta Loca",
@@ -444,7 +441,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Karl8-Andrea-Monta-Esta-Loca.jpg"
         },
         {
-            "id": "53c14fcd-8bd7-4523-8470-6de03b10c0a5",
+            "id": "29989640-c416-4691-a2ca-34f700e6a1fc",
             "name": "Winterswijk - M4G Remix",
             "artist": "Phygos/M4G",
             "album": "One",
@@ -452,7 +449,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Phygos-Winterswijk-M4G-Remix.jpg"
         },
         {
-            "id": "17b91cd3-a5cf-4a08-9de9-43f94c830943",
+            "id": "48f418e1-d124-48b2-ac05-8645845f7e77",
             "name": "Serifs",
             "artist": "Hey Lu",
             "album": "Serifs",
@@ -460,7 +457,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Hey-Lu-Serifs.jpg"
         },
         {
-            "id": "dbe82394-a8a4-43e8-ad8b-db9b77f38a13",
+            "id": "340319f3-0f45-4b63-88c3-ad6a22540ba2",
             "name": "",
             "artist": "",
             "album": "",
@@ -468,7 +465,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Anis-Karek-Cafe-De-Anatolia-Atlantis.jpg"
         },
         {
-            "id": "061400ab-724a-46ee-b9db-b53aa446c89b",
+            "id": "c51eeee6-3192-4d00-9d95-594c032b68e8",
             "name": "You Got Me - Radio Edit",
             "artist": "O'Neal/FR3SH TrX",
             "album": "You Got Me",
@@ -476,7 +473,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/ONeal-FR3SH-TrX-You-Got-Me-Radio-Edit.jpg"
         },
         {
-            "id": "d7c1e65d-c481-464b-bafe-3bd6a4fe7739",
+            "id": "f53dc427-540e-4c76-99c0-4e4a51dc9e81",
             "name": "Night Calls",
             "artist": "Bubz",
             "album": "ASCENSION",
@@ -484,7 +481,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Bubz-Night-Calls.jpg"
         },
         {
-            "id": "9857a5be-ad24-42d4-84f0-fc4530eb8dc4",
+            "id": "fa3e609d-b076-42e5-89e7-babfeb81dad8",
             "name": "Vamos",
             "artist": "Torrex",
             "album": "Vamos",
@@ -492,7 +489,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Torrex-Vamos.jpg"
         },
         {
-            "id": "335bbd2a-48f7-4f45-92ad-001903b8c0dd",
+            "id": "2ae9f1f5-cf7a-4d9a-a215-f2aabb1cedf2",
             "name": "Never Gonna Give You Up - Kenny Laakkinen Remix",
             "artist": "Dream Sound Masters/Tom Skobe/Kenny Laakkinen/Tom Luca",
             "album": "Never Gonna Give You Up",
@@ -500,7 +497,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Dream-Sound-Masters-Tom-Skobe-Tom-Luca-Never-Gonna-Give-You-Up-Kenny-Laakkinen-Remix.jpg"
         },
         {
-            "id": "2cfbeaaa-49e3-4128-be06-f6ea5efabd7b",
+            "id": "8f244946-62ad-4b03-9ea9-ce0a1bbcb4d4",
             "name": "Me 'n You",
             "artist": "Mediivh",
             "album": "Me 'n You",
@@ -508,7 +505,7 @@
             "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/gym-tracks-2024/images/Mediivh-Me-n-You.jpg"
         },
         {
-            "id": "64adc5b9-87d3-425f-b1ab-cab408aa6506",
+            "id": "009f94d1-6779-4c9f-aa32-c0f454146d74",
             "name": "Your Loving",
             "artist": "Marvin Shadex/KAMA",
             "album": "Your Loving",
