@@ -1,0 +1,898 @@
+{
+    "id": "f71d0fd9-056e-4e16-9a6b-f34sdfsdf23423sfds3423",
+    "description": "Pop hits to keep your workout fresh",
+    "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/thumbnail.webp",
+    "tracks": [
+        {
+            "duration": 138.792,
+            "id": "3526ab1d-bc0e-467e-86d6-c99eb521b06c",
+            "name": "Players",
+            "artist": "Coi Leray",
+            "album": "Players",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Coi-Leray-Players.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Coi-Leray-Players.webp"
+        },
+        {
+            "duration": 174.84,
+            "id": "8a994802-e88b-43b6-9d25-5f3ef50f8e9f",
+            "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+            "artist": "Hailee Steinfeld/Alesso/Florida Georgia Line/WATT",
+            "album": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Hailee-Steinfeld-Let-Me-Go-with-Alesso-Florida-Georgia-Line-watt.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Hailee-Steinfeld-Let-Me-Go-with-Alesso-Florida-Georgia-Line-watt.webp"
+        },
+        {
+            "duration": 180.912,
+            "id": "5b49cddc-df9b-48f3-8fcd-c136d89b0141",
+            "name": "Everybody (feat. Lil Uzi Vert)",
+            "artist": "Nicki Minaj/Lil Uzi Vert",
+            "album": "Pink Friday 2",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Nicki-Minaj-Everybody-feat.-Lil-Uzi-Vert.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Nicki-Minaj-Everybody-feat.-Lil-Uzi-Vert.webp"
+        },
+        {
+            "duration": 208.704,
+            "id": "13053bf8-37c2-4ee3-8b45-d6869c0742f6",
+            "name": "Kiss Me More (feat. SZA)",
+            "artist": "Doja Cat/SZA",
+            "album": "Planet Her",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Doja-Cat-Kiss-Me-More-feat.-SZA.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Doja-Cat-Kiss-Me-More-feat.-SZA.webp"
+        },
+        {
+            "duration": 173.04,
+            "id": "2ce055a1-a324-4108-b01a-998eee9c7cf2",
+            "name": "Crying On The Dancefloor",
+            "artist": "Sam Feldt/Jonas Blue/Endless Summer/Violet Days",
+            "album": "Crying On The Dancefloor",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Sam-Feldt-Jonas-Blue-Endless-Summer-Violet-Days-Crying-On-The-Dancefloor.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Sam-Feldt-Jonas-Blue-Endless-Summer-Violet-Days-Crying-On-The-Dancefloor.webp"
+        },
+        {
+            "duration": 200.28,
+            "id": "fcd723f1-7f42-4fa1-bcce-9d21264f2262",
+            "name": "Water",
+            "artist": "Tyla",
+            "album": "Water",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Tyla-Water.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Tyla-Water.webp"
+        },
+        {
+            "duration": 209.064,
+            "id": "bb927d5e-0b3c-4e35-9b54-7c598a924b4a",
+            "name": "Celestial",
+            "artist": "Ed Sheeran",
+            "album": "Celestial",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Ed-Sheeran-Celestial.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Ed-Sheeran-Celestial.webp"
+        },
+        {
+            "duration": 225.192,
+            "id": "13014337-7cd7-4289-886a-43a8deb75d8f",
+            "name": "Oh My God",
+            "artist": "Adele",
+            "album": "30",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Adele-Oh-My-God.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Adele-Oh-My-God.webp"
+        },
+        {
+            "duration": 162.432,
+            "id": "1f0def5d-f941-4f10-ab45-a85ab67b1b41",
+            "name": "Kings & Queens",
+            "artist": "Ava Max",
+            "album": "Heaven & Hell",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Ava-Max-Kings-Queens.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Ava-Max-Kings-Queens.webp"
+        },
+        {
+            "duration": 164.88,
+            "id": "a2f83d87-aa34-4414-99a0-4a5bb4f77bba",
+            "name": "Don't Go Yet",
+            "artist": "Camila Cabello",
+            "album": "Don't Go Yet",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Camila-Cabello-Dont-Go-Yet.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Camila-Cabello-Dont-Go-Yet.webp"
+        },
+        {
+            "duration": 172.296,
+            "id": "0fa4ba99-acc3-4aff-bec8-0a90a84dfe28",
+            "name": "When You're Gone",
+            "artist": "Shawn Mendes",
+            "album": "When You're Gone",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Shawn-Mendes-When-Youre-Gone.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Shawn-Mendes-When-Youre-Gone.webp"
+        },
+        {
+            "duration": 212.544,
+            "id": "99e2268a-c91b-49d7-8ceb-8962e97a25d4",
+            "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+            "artist": "DJ Snake/Selena Gomez/Ozuna/Cardi B",
+            "album": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/DJ-Snake-Taki-Taki-with-Selena-Gomez-Ozuna-Cardi-B.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/DJ-Snake-Taki-Taki-with-Selena-Gomez-Ozuna-Cardi-B.webp"
+        },
+        {
+            "duration": 154.608,
+            "id": "4fd7f4f9-0a86-4fb1-a382-3c2c061a37af",
+            "name": "Call It Love",
+            "artist": "Felix Jaehn/Ray Dalton",
+            "album": "Call It Love",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Felix-Jaehn-Ray-Dalton-Call-It-Love.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Felix-Jaehn-Ray-Dalton-Call-It-Love.webp"
+        },
+        {
+            "duration": 122.808,
+            "id": "9bb246b1-47d1-4922-8c6b-269aeffd9815",
+            "name": "Build a Bitch",
+            "artist": "Bella Poarch",
+            "album": "Build a Bitch",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Bella-Poarch-Build-a-Bitch.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Bella-Poarch-Build-a-Bitch.webp"
+        },
+        {
+            "duration": 190.392,
+            "id": "0c6f8d7e-33b4-44b7-a123-745502e44cb4",
+            "name": "The Man",
+            "artist": "Taylor Swift",
+            "album": "Lover",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Taylor-Swift-The-Man.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Taylor-Swift-The-Man.webp"
+        },
+        {
+            "duration": 143.928,
+            "id": "c032b0d9-20e1-490f-8f8e-36567cc0eea2",
+            "name": "THATS WHAT I WANT",
+            "artist": "Lil Nas X",
+            "album": "MONTERO",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Lil-Nas-X-THATS-WHAT-I-WANT.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Lil-Nas-X-THATS-WHAT-I-WANT.webp"
+        },
+        {
+            "duration": 148.512,
+            "id": "63976138-3386-4f1a-ae46-a1bead64961d",
+            "name": "I Ain't Worried",
+            "artist": "OneRepublic",
+            "album": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/OneRepublic-I-Aint-Worried.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/OneRepublic-I-Aint-Worried.webp"
+        },
+        {
+            "duration": 164.808,
+            "id": "7163fb72-5a88-4032-8bd0-1aced2749981",
+            "name": "Thousand Miles",
+            "artist": "The Kid LAROI",
+            "album": "Thousand Miles",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/The-Kid-LAROI-Thousand-Miles.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/The-Kid-LAROI-Thousand-Miles.webp"
+        },
+        {
+            "duration": 207.888,
+            "id": "955215bc-ec47-4211-99cd-baea73ce3db3",
+            "name": "Shivers",
+            "artist": "Ed Sheeran",
+            "album": "=",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Ed-Sheeran-Shivers.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Ed-Sheeran-Shivers.webp"
+        },
+        {
+            "duration": 179.208,
+            "id": "ad591606-cbcb-4388-b850-59160d787906",
+            "name": "Desire (with Sam Smith)",
+            "artist": "Calvin Harris/Sam Smith",
+            "album": "Desire (with Sam Smith)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Calvin-Harris-Desire-with-Sam-Smith.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Calvin-Harris-Desire-with-Sam-Smith.webp"
+        },
+        {
+            "duration": 190.344,
+            "id": "4e83f788-a934-4212-9cbd-e75453081204",
+            "name": "Take You Dancing",
+            "artist": "Jason Derulo",
+            "album": "Take You Dancing",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Jason-Derulo-Take-You-Dancing.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Jason-Derulo-Take-You-Dancing.webp"
+        },
+        {
+            "duration": 185.952,
+            "id": "2a58c46e-21a2-400a-bfc4-fb110a6f7fe9",
+            "name": "Houdini",
+            "artist": "Dua Lipa",
+            "album": "Houdini",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Dua-Lipa-Houdini.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Dua-Lipa-Houdini.webp"
+        },
+        {
+            "duration": 171.696,
+            "id": "a8109f7c-e7fe-4776-843d-90b47f0b2593",
+            "name": "Single Soon",
+            "artist": "Selena Gomez",
+            "album": "Single Soon",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Selena-Gomez-Single-Soon.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Selena-Gomez-Single-Soon.webp"
+        },
+        {
+            "duration": 202.776,
+            "id": "bdaea35f-663b-4562-b675-68519e17a721",
+            "name": "Cold Heart - PNAU Remix",
+            "artist": "Elton John/Dua Lipa/PNAU",
+            "album": "Cold Heart (PNAU Remix)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Elton-John-Dua-Lipa-Cold-Heart-PNAU-Remix.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Elton-John-Dua-Lipa-Cold-Heart-PNAU-Remix.webp"
+        },
+        {
+            "duration": 233.424,
+            "id": "a39b329e-aacc-427d-8758-a617a49daedb",
+            "name": "You",
+            "artist": "Regard/Troye Sivan/Tate McRae",
+            "album": "You",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Regard-Troye-Sivan-Tate-McRae-You.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Regard-Troye-Sivan-Tate-McRae-You.webp"
+        },
+        {
+            "duration": 212.04,
+            "id": "edec707a-d8e6-4f0a-b971-afe17adbe188",
+            "name": "INDUSTRY BABY (feat. Jack Harlow)",
+            "artist": "Lil Nas X/Jack Harlow",
+            "album": "MONTERO",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Lil-Nas-X-INDUSTRY-BABY-feat.-Jack-Harlow.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Lil-Nas-X-INDUSTRY-BABY-feat.-Jack-Harlow.webp"
+        },
+        {
+            "duration": 199.08,
+            "id": "8b840f3c-5798-44da-bf28-ee114d8b28ff",
+            "name": "Dynamite",
+            "artist": "BTS",
+            "album": "BE",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/BTS-Dynamite.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/BTS-Dynamite.webp"
+        },
+        {
+            "duration": 212.664,
+            "id": "4d74a591-b057-430a-abe8-40aa24f0fdcb",
+            "name": "How Deep Is Your Love",
+            "artist": "Calvin Harris/Disciples",
+            "album": "How Deep Is Your Love",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Calvin-Harris-Disciples-How-Deep-Is-Your-Love.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Calvin-Harris-Disciples-How-Deep-Is-Your-Love.webp"
+        },
+        {
+            "duration": 244.488,
+            "id": "05cd5fd7-e70f-4742-8c38-906a8db92056",
+            "name": "Into You",
+            "artist": "Ariana Grande",
+            "album": "Dangerous Woman",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Ariana-Grande-Into-You.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Ariana-Grande-Into-You.webp"
+        },
+        {
+            "duration": 140.064,
+            "id": "a18f92ce-a2b7-4d58-b7ee-1b1d6ce2db13",
+            "name": "Baby Don't Hurt Me",
+            "artist": "David Guetta/Anne-Marie/Coi Leray",
+            "album": "Baby Don't Hurt Me",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/David-Guetta-Anne-Marie-Coi-Leray-Baby-Dont-Hurt-Me.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/David-Guetta-Anne-Marie-Coi-Leray-Baby-Dont-Hurt-Me.webp"
+        },
+        {
+            "duration": 160.56,
+            "id": "ac947b6a-3e1c-4126-aba1-e9d244f3d26c",
+            "name": "One in a Million",
+            "artist": "Bebe Rexha/David Guetta",
+            "album": "One in a Million",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Bebe-Rexha-David-Guetta-One-in-a-Million.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Bebe-Rexha-David-Guetta-One-in-a-Million.webp"
+        },
+        {
+            "duration": 184.152,
+            "id": "1d13080f-4b80-4082-8158-23ee6295bb9f",
+            "name": "Summer of Love (Shawn Mendes & Tainy)",
+            "artist": "Shawn Mendes/Tainy",
+            "album": "Summer Of Love",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Shawn-Mendes-Summer-of-Love-Shawn-Mendes-Tainy.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Shawn-Mendes-Summer-of-Love-Shawn-Mendes-Tainy.webp"
+        },
+        {
+            "duration": 182.232,
+            "id": "6503dcf6-8b91-4968-925a-6294b2085b13",
+            "name": "Rain On Me (with Ariana Grande)",
+            "artist": "Lady Gaga/Ariana Grande",
+            "album": "Rain On Me (with Ariana Grande)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Lady-Gaga-Rain-On-Me-with-Ariana-Grande.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Lady-Gaga-Rain-On-Me-with-Ariana-Grande.webp"
+        },
+        {
+            "duration": 171.072,
+            "id": "e86e0f9f-abc2-4d27-a087-70ba7412ec76",
+            "name": "Dancing With A Stranger (with Normani)",
+            "artist": "Sam Smith/Normani",
+            "album": "Dancing With A Stranger (with Normani)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Sam-Smith-Dancing-With-A-Stranger-with-Normani.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Sam-Smith-Dancing-With-A-Stranger-with-Normani.webp"
+        },
+        {
+            "duration": 187.152,
+            "id": "05df173e-914c-4487-a582-f9f7edcd43a2",
+            "name": "2 Be Loved (Am I Ready)",
+            "artist": "Lizzo",
+            "album": "Special",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Lizzo-2-Be-Loved-Am-I-Ready.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Lizzo-2-Be-Loved-Am-I-Ready.webp"
+        },
+        {
+            "duration": 210.264,
+            "id": "1e8a80b4-084e-4b3b-ac18-b8e59c771021",
+            "name": "Back To You",
+            "artist": "Selena Gomez",
+            "album": "13 Reasons Why (Season 2)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Selena-Gomez-Back-To-You.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Selena-Gomez-Back-To-You.webp"
+        },
+        {
+            "duration": 172.632,
+            "id": "45893522-b710-43f1-81c0-0620cc4dd032",
+            "name": "Lost",
+            "artist": "Maroon 5",
+            "album": "JORDI (Deluxe)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Maroon-5-Lost.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Maroon-5-Lost.webp"
+        },
+        {
+            "duration": 183.336,
+            "id": "46fbceab-a34e-4f19-9f05-920ea3b80443",
+            "name": "Don't Start Now",
+            "artist": "Dua Lipa",
+            "album": "Future Nostalgia",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Dua-Lipa-Dont-Start-Now.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Dua-Lipa-Dont-Start-Now.webp"
+        },
+        {
+            "duration": 139.704,
+            "id": "8e54b767-7dc6-4fd3-8f8e-ddb946091849",
+            "name": "Acapulco",
+            "artist": "Jason Derulo",
+            "album": "Acapulco",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Jason-Derulo-Acapulco.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Jason-Derulo-Acapulco.webp"
+        },
+        {
+            "duration": 185.808,
+            "id": "3bcd1fd5-8bfd-4425-bcac-0513a37bcb4d",
+            "name": "Maniac",
+            "artist": "Conan Gray",
+            "album": "Kid Krow",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Conan-Gray-Maniac.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Conan-Gray-Maniac.webp"
+        },
+        {
+            "duration": 167.328,
+            "id": "062ade22-290c-41d6-a6fc-a82e735c68e3",
+            "name": "As It Was",
+            "artist": "Harry Styles",
+            "album": "Harry's House",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Harry-Styles-As-It-Was.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Harry-Styles-As-It-Was.webp"
+        },
+        {
+            "duration": 173.424,
+            "id": "40222ac4-bd3a-49e2-99e1-f40e75dd1942",
+            "name": "Enemy (with JID) - from the series Arcane League of Legends",
+            "artist": "Imagine Dragons/JID/Arcane/League of Legends",
+            "album": "Enemy (with JID) [from the series Arcane League of Legends]",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Imagine-Dragons-Enemy-with-JID-from-the-series-Arcane-League-of-Legends.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Imagine-Dragons-Enemy-with-JID-from-the-series-Arcane-League-of-Legends.webp"
+        },
+        {
+            "duration": 131.904,
+            "id": "7b20f949-b5f5-4e67-85a6-41762ae8fb39",
+            "name": "greedy",
+            "artist": "Tate McRae",
+            "album": "greedy",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Tate-McRae-greedy.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Tate-McRae-greedy.webp"
+        },
+        {
+            "duration": 175.92,
+            "id": "98092ff2-7f8b-47a8-a849-375b461c5dbd",
+            "name": "Shut Down",
+            "artist": "BLACKPINK",
+            "album": "BORN PINK",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/BLACKPINK-Shut-Down.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/BLACKPINK-Shut-Down.webp"
+        },
+        {
+            "duration": 149.424,
+            "id": "a67953b1-bd70-46d2-949f-63e25d8b40e4",
+            "name": "AMERICAN HORROR SHOW",
+            "artist": "SNOW WIFE",
+            "album": "AMERICAN HORROR SHOW",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/SNOW-WIFE-AMERICAN-HORROR-SHOW.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/SNOW-WIFE-AMERICAN-HORROR-SHOW.webp"
+        },
+        {
+            "duration": 163.056,
+            "id": "93cf8309-39e3-4cef-bf75-43bacc9838d8",
+            "name": "Sunroof",
+            "artist": "Nicky Youre/dazy",
+            "album": "Good Times Go",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Nicky-Youre-dazy-Sunroof.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Nicky-Youre-dazy-Sunroof.webp"
+        },
+        {
+            "duration": 209.472,
+            "id": "9f5e2f5b-0c72-4f77-9df4-b2f631f43416",
+            "name": "Dance Monkey",
+            "artist": "Tones And I",
+            "album": "Welcome To The Madhouse (Deluxe)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Tones-And-I-Dance-Monkey.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Tones-And-I-Dance-Monkey.webp"
+        },
+        {
+            "duration": 169.056,
+            "id": "45bf17ce-ce77-4a2a-a9dc-ae384700aa97",
+            "name": "Run",
+            "artist": "OneRepublic",
+            "album": "Run",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/OneRepublic-Run.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/OneRepublic-Run.webp"
+        },
+        {
+            "duration": 161.304,
+            "id": "0e10a0d0-fa50-495e-9456-1c357c4bf74b",
+            "name": "When I\u2019m Gone (with Katy Perry)",
+            "artist": "Alesso/Katy Perry",
+            "album": "When I\u2019m Gone (with Katy Perry)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Alesso-When-Im-Gone-with-Katy-Perry.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Alesso-When-Im-Gone-with-Katy-Perry.webp"
+        },
+        {
+            "duration": 178.464,
+            "id": "79e9c3b3-8d5b-40fc-b04e-0d9d9f0edd83",
+            "name": "Cruel Summer",
+            "artist": "Taylor Swift",
+            "album": "Lover",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Taylor-Swift-Cruel-Summer.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Taylor-Swift-Cruel-Summer.webp"
+        },
+        {
+            "duration": 152.256,
+            "id": "84b131da-c1d7-4152-8f2c-e7fee1be0ac4",
+            "name": "PS5",
+            "artist": "salem ilese/TOMORROW X TOGETHER/Alan Walker",
+            "album": "(MORE) Unsponsored Content",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/salem-ilese-TOMORROW-X-TOGETHER-Alan-Walker-PS5.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/salem-ilese-TOMORROW-X-TOGETHER-Alan-Walker-PS5.webp"
+        },
+        {
+            "duration": 278.328,
+            "id": "4c5df867-15fb-4ab3-814d-09f45f37d9e3",
+            "name": "BREAK MY SOUL",
+            "artist": "Beyonc\u00e9",
+            "album": "BREAK MY SOUL",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Beyonc\u00e9-BREAK-MY-SOUL.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Beyonc\u00e9-BREAK-MY-SOUL.webp"
+        },
+        {
+            "duration": 217.776,
+            "id": "aa787830-b578-4314-b5ea-a1d570742bf1",
+            "name": "Unstoppable",
+            "artist": "Sia",
+            "album": "This Is Acting (Deluxe Version)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Sia-Unstoppable.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Sia-Unstoppable.webp"
+        },
+        {
+            "duration": 155.28,
+            "id": "896346f8-a695-4bdc-ae34-e5d725baf147",
+            "name": "21 Reasons (feat. Ella Henderson)",
+            "artist": "Nathan Dawe/Ella Henderson",
+            "album": "21 Reasons (feat. Ella Henderson)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Nathan-Dawe-21-Reasons-feat.-Ella-Henderson.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Nathan-Dawe-21-Reasons-feat.-Ella-Henderson.webp"
+        },
+        {
+            "duration": 134.28,
+            "id": "f3068a19-f4a9-437f-b81b-6a3e1bd0e5ca",
+            "name": "Boss Bitch",
+            "artist": "Doja Cat",
+            "album": "Boss Bitch",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Doja-Cat-Boss-Bitch.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Doja-Cat-Boss-Bitch.webp"
+        },
+        {
+            "duration": 234.024,
+            "id": "57676116-e5e5-48e7-acc7-8dc8874d82c5",
+            "name": "Moth To A Flame (with The Weeknd)",
+            "artist": "Swedish House Mafia/The Weeknd",
+            "album": "Paradise Again",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Swedish-House-Mafia-Moth-To-A-Flame-with-The-Weeknd.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Swedish-House-Mafia-Moth-To-A-Flame-with-The-Weeknd.webp"
+        },
+        {
+            "duration": 117.84,
+            "id": "6876e1ed-926b-4f94-8075-11d38509fe60",
+            "name": "Speed Drive (From Barbie The Album)",
+            "artist": "Charli XCX",
+            "album": "Speed Drive (From Barbie The Album)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Charli-XCX-Speed-Drive-From-Barbie-The-Album.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Charli-XCX-Speed-Drive-From-Barbie-The-Album.webp"
+        },
+        {
+            "duration": 291.336,
+            "id": "48dccba2-798a-4b30-a622-bb8d40e7c3c6",
+            "name": "I Wanna Dance with Somebody (Who Loves Me)",
+            "artist": "Whitney Houston",
+            "album": "Whitney",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Whitney-Houston-I-Wanna-Dance-with-Somebody-Who-Loves-Me.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Whitney-Houston-I-Wanna-Dance-with-Somebody-Who-Loves-Me.webp"
+        },
+        {
+            "duration": 207.144,
+            "id": "c45c5499-1144-484b-b291-4660885c6fb2",
+            "name": "she's all i wanna be",
+            "artist": "Tate McRae",
+            "album": "i used to think i could fly",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Tate-McRae-shes-all-i-wanna-be.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Tate-McRae-shes-all-i-wanna-be.webp"
+        },
+        {
+            "duration": 223.32,
+            "id": "1d377e30-6bab-46de-a27f-31c7199d9d21",
+            "name": "Midnight Sky",
+            "artist": "Miley Cyrus",
+            "album": "Plastic Hearts",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Miley-Cyrus-Midnight-Sky.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Miley-Cyrus-Midnight-Sky.webp"
+        },
+        {
+            "duration": 189.864,
+            "id": "0cd4fd4a-33be-42ea-9709-4b0206e93439",
+            "name": "What It Is (Solo Version)",
+            "artist": "Doechii",
+            "album": "What It Is (Versions)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Doechii-What-It-Is-Solo-Version.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Doechii-What-It-Is-Solo-Version.webp"
+        },
+        {
+            "duration": 193.872,
+            "id": "aaac5c5f-6d9a-4ecb-80c5-ab8e6e60848a",
+            "name": "Motivation",
+            "artist": "Normani",
+            "album": "Motivation",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Normani-Motivation.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Normani-Motivation.webp"
+        },
+        {
+            "duration": 164.856,
+            "id": "63245a88-dde0-403a-a3f8-968ef46ac773",
+            "name": "The Motto",
+            "artist": "Ti\u00ebsto/Ava Max",
+            "album": "The Motto",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Ti\u00ebsto-Ava-Max-The-Motto.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Ti\u00ebsto-Ava-Max-The-Motto.webp"
+        },
+        {
+            "duration": 3824.568,
+            "id": "70943e3d-1aea-4250-a75b-9e8b96820369",
+            "name": "Sucker",
+            "artist": "Jonas Brothers",
+            "album": "Happiness Begins",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Jonas-Brothers-Sucker.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Jonas-Brothers-Sucker.webp"
+        },
+        {
+            "duration": 201.36,
+            "id": "2f2f23df-4a68-413c-b146-d4ba278b27a0",
+            "name": "Sweetest Pie",
+            "artist": "Megan Thee Stallion/Dua Lipa",
+            "album": "Sweetest Pie",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Megan-Thee-Stallion-Dua-Lipa-Sweetest-Pie.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Megan-Thee-Stallion-Dua-Lipa-Sweetest-Pie.webp"
+        },
+        {
+            "duration": 166.296,
+            "id": "8d0fe0d4-9ec9-416d-9938-f4c238731d2d",
+            "name": "Padam Padam",
+            "artist": "Kylie Minogue",
+            "album": "Tension (Deluxe)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Kylie-Minogue-Padam-Padam.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Kylie-Minogue-Padam-Padam.webp"
+        },
+        {
+            "duration": 337.776,
+            "id": "563b980e-1af1-4bf7-9679-b82302a6f700",
+            "name": "Hung Up",
+            "artist": "Madonna",
+            "album": "Confessions on a Dance Floor",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Madonna-Hung-Up.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Madonna-Hung-Up.webp"
+        },
+        {
+            "duration": 181.512,
+            "id": "c55f9565-9b93-49ca-9eb1-8ffb4092dfdc",
+            "name": "Substitution (feat. Julian Perretta)",
+            "artist": "Purple Disco Machine/Kungs/Julian Perretta",
+            "album": "Substitution (feat. Julian Perretta)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Purple-Disco-Machine-Kungs-Substitution-feat.-Julian-Perretta.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Purple-Disco-Machine-Kungs-Substitution-feat.-Julian-Perretta.webp"
+        },
+        {
+            "duration": 153.216,
+            "id": "e4552dc9-9719-4562-818b-415c5934d763",
+            "name": "Ghost",
+            "artist": "Justin Bieber",
+            "album": "Justice",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Justin-Bieber-Ghost.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Justin-Bieber-Ghost.webp"
+        },
+        {
+            "duration": 169.368,
+            "id": "e5b34161-565e-48ec-87f2-6513a128eeb8",
+            "name": "Prisoner (feat. Dua Lipa)",
+            "artist": "Miley Cyrus/Dua Lipa",
+            "album": "Plastic Hearts",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Miley-Cyrus-Prisoner-feat.-Dua-Lipa.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Miley-Cyrus-Prisoner-feat.-Dua-Lipa.webp"
+        },
+        {
+            "duration": 163.91836734693877,
+            "id": "58561da8-c3b6-4dfa-a399-30239dea8324",
+            "name": "Sunshine",
+            "artist": "OneRepublic",
+            "album": "Sunshine",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/OneRepublic-Sunshine.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/OneRepublic-Sunshine.webp"
+        },
+        {
+            "duration": 196.968,
+            "id": "1032025a-51ae-4648-ab11-8b850b63a6a5",
+            "name": "Can't Tame Her",
+            "artist": "Zara Larsson",
+            "album": "Can't Tame Her",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Zara-Larsson-Cant-Tame-Her.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Zara-Larsson-Cant-Tame-Her.webp"
+        },
+        {
+            "duration": 239.352,
+            "id": "97e9fd40-602a-458a-afe1-0399d2f05c39",
+            "name": "Calm Down (with Selena Gomez)",
+            "artist": "Rema/Selena Gomez",
+            "album": "Calm Down (with Selena Gomez)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Rema-Calm-Down-with-Selena-Gomez.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Rema-Calm-Down-with-Selena-Gomez.webp"
+        },
+        {
+            "duration": 228.312,
+            "id": "8731c093-9100-4a70-b0c2-07a092e51db3",
+            "name": "Higher Love",
+            "artist": "Kygo/Whitney Houston",
+            "album": "Higher Love",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Kygo-Whitney-Houston-Higher-Love.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Kygo-Whitney-Houston-Higher-Love.webp"
+        },
+        {
+            "duration": 204.888,
+            "id": "27cf05dd-e9a9-4b6b-8f04-daf142b1f967",
+            "name": "Karma",
+            "artist": "Taylor Swift",
+            "album": "Midnights (3am Edition)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Taylor-Swift-Karma.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Taylor-Swift-Karma.webp"
+        },
+        {
+            "duration": 156.432,
+            "id": "f9ee8653-cc21-4fac-9fb6-9bca9ea6a455",
+            "name": "Rush",
+            "artist": "Troye Sivan",
+            "album": "Something To Give Each Other",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Troye-Sivan-Rush.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Troye-Sivan-Rush.webp"
+        },
+        {
+            "duration": 141.84,
+            "id": "ea293cab-64d3-410d-9324-8068af53035a",
+            "name": "STAY (with Justin Bieber)",
+            "artist": "The Kid LAROI/Justin Bieber",
+            "album": "STAY (with Justin Bieber)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/The-Kid-LAROI-STAY-with-Justin-Bieber.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/The-Kid-LAROI-STAY-with-Justin-Bieber.webp"
+        },
+        {
+            "duration": 172.824,
+            "id": "0bda7847-29be-47c2-ac63-1c79eafe0136",
+            "name": "QLONA",
+            "artist": "KAROL G/Peso Pluma",
+            "album": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/KAROL-G-Peso-Pluma-QLONA.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/KAROL-G-Peso-Pluma-QLONA.webp"
+        },
+        {
+            "duration": 238.848,
+            "id": "3993e09c-243f-4ec6-895f-62a9df4502f7",
+            "name": "Heat Waves",
+            "artist": "Glass Animals",
+            "album": "Dreamland",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Glass-Animals-Heat-Waves.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Glass-Animals-Heat-Waves.webp"
+        },
+        {
+            "duration": 175.272,
+            "id": "840ce252-fc0e-4795-9950-9064570912f4",
+            "name": "I'm Good (Blue)",
+            "artist": "David Guetta/Bebe Rexha",
+            "album": "I'm Good (Blue)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/David-Guetta-Bebe-Rexha-Im-Good-Blue.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/David-Guetta-Bebe-Rexha-Im-Good-Blue.webp"
+        },
+        {
+            "duration": 222.696,
+            "id": "65d7ad45-dab7-43e1-b66a-91afd55c96fd",
+            "name": "Solo (feat. Demi Lovato)",
+            "artist": "Clean Bandit/Demi Lovato",
+            "album": "Solo (feat. Demi Lovato)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Clean-Bandit-Solo-feat.-Demi-Lovato.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Clean-Bandit-Solo-feat.-Demi-Lovato.webp"
+        },
+        {
+            "duration": 187.632,
+            "id": "1e10032b-b637-4eb1-8c11-58ec01c43682",
+            "name": "Permission to Dance",
+            "artist": "BTS",
+            "album": "Permission to Dance",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/BTS-Permission-to-Dance.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/BTS-Permission-to-Dance.webp"
+        },
+        {
+            "duration": 178.536,
+            "id": "4e3fc5b5-be23-4682-9531-c8ff7dad461c",
+            "name": "Don't Call Me Up",
+            "artist": "Mabel",
+            "album": "Ivy To Roses (Mixtape)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Mabel-Dont-Call-Me-Up.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Mabel-Dont-Call-Me-Up.webp"
+        },
+        {
+            "duration": 230.784,
+            "id": "72898994-02e9-4ef9-b2a7-71dcb8872f71",
+            "name": "Bad Habits",
+            "artist": "Ed Sheeran",
+            "album": "=",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Ed-Sheeran-Bad-Habits.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Ed-Sheeran-Bad-Habits.webp"
+        },
+        {
+            "duration": 190.08,
+            "id": "a46dd416-e98e-4498-921f-72b10a678e88",
+            "name": "Lights - Sped Up Version",
+            "artist": "Ellie Goulding/Speed Radio",
+            "album": "Lights (Sped Up Version)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Ellie-Goulding-Speed-Radio-Lights-Sped-Up-Version.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Ellie-Goulding-Speed-Radio-Lights-Sped-Up-Version.webp"
+        },
+        {
+            "duration": 164.04,
+            "id": "699a019e-81a2-45d5-8ca7-d9fb6fc5109a",
+            "name": "Dancing In The Moonlight (feat. NEIMY)",
+            "artist": "Jub\u00ebl/NEIMY",
+            "album": "Dancing In The Moonlight (feat. NEIMY)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Jub\u00ebl-Dancing-In-The-Moonlight-feat.-NEIMY.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Jub\u00ebl-Dancing-In-The-Moonlight-feat.-NEIMY.webp"
+        },
+        {
+            "duration": 3758.808,
+            "id": "7c62756d-598b-4737-89c8-81a8b508c228",
+            "name": "My Universe",
+            "artist": "Coldplay/BTS",
+            "album": "My Universe",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Coldplay-BTS-My-Universe.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Coldplay-BTS-My-Universe.webp"
+        },
+        {
+            "duration": 180.672,
+            "id": "93f63695-27f8-42af-b89f-483b6edb0f22",
+            "name": "What A Man Gotta Do",
+            "artist": "Jonas Brothers",
+            "album": "What A Man Gotta Do",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Jonas-Brothers-What-A-Man-Gotta-Do.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Jonas-Brothers-What-A-Man-Gotta-Do.webp"
+        },
+        {
+            "duration": 236.04,
+            "id": "1d1089f6-6259-4f42-8248-8d882347ef36",
+            "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+            "artist": "Justin Timberlake",
+            "album": "TROLLS (Original Motion Picture Soundtrack)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Justin-Timberlake-CANT-STOP-THE-FEELING-from-DreamWorks-Animations-TROLLS.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Justin-Timberlake-CANT-STOP-THE-FEELING-from-DreamWorks-Animations-TROLLS.webp"
+        },
+        {
+            "duration": 174.288,
+            "id": "07a9496c-9810-4215-85a8-3855b683abd0",
+            "name": "Cupid - Twin Ver.",
+            "artist": "FIFTY FIFTY",
+            "album": "The Beginning: Cupid",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/FIFTY-FIFTY-Cupid-Twin-Ver..mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/FIFTY-FIFTY-Cupid-Twin-Ver..webp"
+        },
+        {
+            "duration": 184.776,
+            "id": "768d12d2-2cb2-4c75-97a5-879f361f9451",
+            "name": "The Middle",
+            "artist": "Zedd/Maren Morris/Grey",
+            "album": "The Middle",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Zedd-Maren-Morris-Grey-The-Middle.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Zedd-Maren-Morris-Grey-The-Middle.webp"
+        },
+        {
+            "duration": 176.616,
+            "id": "3a552db2-6483-4785-b7b8-e50b058b292d",
+            "name": "Dance The Night - From Barbie The Album",
+            "artist": "Dua Lipa",
+            "album": "Dance The Night (From Barbie The Album)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Dua-Lipa-Dance-The-Night-From-Barbie-The-Album.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Dua-Lipa-Dance-The-Night-From-Barbie-The-Album.webp"
+        },
+        {
+            "duration": 194.424,
+            "id": "7f196c58-2729-4a71-a4a1-7e4dc47256d7",
+            "name": "I'll Be There",
+            "artist": "Jess Glynne",
+            "album": "Always in Between (Deluxe)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Jess-Glynne-Ill-Be-There.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Jess-Glynne-Ill-Be-There.webp"
+        },
+        {
+            "duration": 178.176,
+            "id": "872c0cba-39cd-49a0-be21-9f803a5380ec",
+            "name": "good 4 u",
+            "artist": "Olivia Rodrigo",
+            "album": "SOUR",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Olivia-Rodrigo-good-4-u.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Olivia-Rodrigo-good-4-u.webp"
+        },
+        {
+            "duration": 155.016,
+            "id": "ed3baa5f-8b7f-4b80-aef3-8562df7243b1",
+            "name": "Leave Before You Love Me (with Jonas Brothers)",
+            "artist": "Marshmello/Jonas Brothers",
+            "album": "Leave Before You Love Me",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Marshmello-Leave-Before-You-Love-Me-with-Jonas-Brothers.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Marshmello-Leave-Before-You-Love-Me-with-Jonas-Brothers.webp"
+        },
+        {
+            "duration": 185.712,
+            "id": "87ef84a9-e19b-4449-b63b-f5a4bcbcae53",
+            "name": "Light Switch",
+            "artist": "Charlie Puth",
+            "album": "CHARLIE",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Charlie-Puth-Light-Switch.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Charlie-Puth-Light-Switch.webp"
+        },
+        {
+            "duration": 140.568,
+            "id": "1d94625e-2915-4e14-895f-1c6a20004edd",
+            "name": "Mood (feat. iann dior)",
+            "artist": "24kGoldn/iann dior",
+            "album": "El Dorado",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/24kGoldn-Mood-feat.-iann-dior.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/24kGoldn-Mood-feat.-iann-dior.webp"
+        },
+        {
+            "duration": 227.424,
+            "id": "d9b77687-0e59-443b-8a53-36ada8f88d59",
+            "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+            "artist": "Maroon 5/Megan Thee Stallion",
+            "album": "JORDI (Deluxe)",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Maroon-5-Beautiful-Mistakes-feat.-Megan-Thee-Stallion.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Maroon-5-Beautiful-Mistakes-feat.-Megan-Thee-Stallion.webp"
+        },
+        {
+            "duration": 237.24,
+            "id": "067b0b7b-3275-4dc9-a526-d59ca15a8f48",
+            "name": "TRUSTFALL",
+            "artist": "P!nk",
+            "album": "TRUSTFALL",
+            "url": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/Pnk-TRUSTFALL.mp3",
+            "image": "https://raw.githubusercontent.com/abhishekraj007/workout-assets/main/playlists/workout-pop-hits/images/Pnk-TRUSTFALL.webp"
+        }
+    ]
+}
